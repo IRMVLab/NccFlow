@@ -112,6 +112,8 @@ if 'kitti' in train_dataset:
 
 We thank all the following open-source project for the help of the implementations:
 - [uflow](https://github.com/google-research/google-research/tree/master/uflow) (our based network)
+- [KITTI](http://www.cvlibs.net/datasets/kitti/eval_flow.php)
+- [Sintel](http://sintel.is.tue.mpg.de/)
 
 
 
