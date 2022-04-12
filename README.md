@@ -45,7 +45,7 @@ Optical flow estimation is a fundamental problem of computer vision and has many
 
 #### Datasets
 
-The datasets supported by this code are KITTI ('kitti'), Sintel ('sintel'), Flying Chairs ('chairs'). For using them, you need to download the datasets and convert them to tfrecord format using the scripts under the data_conversion_scripts folder.
+The datasets supported by this code are [KITTI](http://www.cvlibs.net/datasets/kitti/eval_flow.php) ('kitti'), [Sintel](http://sintel.is.tue.mpg.de/) ('sintel'), Flying Chairs ('chairs'). For using them, you need to download the datasets and convert them to tfrecord format using the scripts under the data_conversion_scripts folder.
 
 For Flying Chairs, use:
 
@@ -112,8 +112,6 @@ if 'kitti' in train_dataset:
 
 We thank all the following open-source project for the help of the implementations:
 - [uflow](https://github.com/google-research/google-research/tree/master/uflow) (our based network)
-- [KITTI](http://www.cvlibs.net/datasets/kitti/eval_flow.php)
-- [Sintel](http://sintel.is.tue.mpg.de/)
 
 
 
