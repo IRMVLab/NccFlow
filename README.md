@@ -1,7 +1,7 @@
-**NccFlow: Unsupervised Learning of Optical Flow With Non-occlusion from Geometry**
+**NccFlow: Unsupervised Learning of Optical Flow With Non-occlusion from Geometry** (IEEE Transactions on Intelligent Transportation Systems 2022)
 ==============================================================================================================================
 
-This is the official implementation of NccFlow, an unsupervised learning of optical flow  created by Guangming Wang, Shuaiqi Ren and Hesheng Wang.
+This is the official implementation of T-ITS 2022 papaer, "NccFlow: Unsupervised Learning of Optical Flow With Non-occlusion from Geometry" created by Guangming Wang, Shuaiqi Ren and Hesheng Wang.
 ![](doc/network.png)
 
 ## Citation
@@ -10,8 +10,8 @@ If you find our work useful in your research, please cite:
         @article{wang2021nccflow,
         title={NccFlow: Unsupervised Learning of Optical Flow With Non-occlusion from Geometry},
         author={Wang, Guangming and Ren, Shuaiqi and Wang, Hesheng},
-        journal={arXiv preprint arXiv:2107.03610},
-        year={2021}
+        journal={IEEE Transactions on Intelligent Transportation Systems},
+        year={2022}
         }
 }
 
